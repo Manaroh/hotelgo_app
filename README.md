@@ -1,4 +1,5 @@
 # HotelGo — Application Mobile de Réservation d’Hôtels
+Réalisé par : Manar Ouahabi et Sara Laaroussi
 
 ## 1. Présentation du projet
 
